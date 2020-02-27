@@ -11,4 +11,4 @@ Codewars is a collective effort by its users. They are creators - authoring kata
 
 Task: https://www.codewars.com/kata/57d814e4950d8489720008db
 
-Solution: https://www.codewars.com/kata/57d814e4950d8489720008db
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/powerElement.js
