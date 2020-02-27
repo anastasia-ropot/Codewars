@@ -7,7 +7,7 @@ Codewars is a collective effort by its users. They are creators - authoring kata
 
 # My Solutions
 
-## 1) Task - N-th Power
+## 1) Task - N-th Power (8 kyu)
 
 Task: https://www.codewars.com/kata/57d814e4950d8489720008db
 
