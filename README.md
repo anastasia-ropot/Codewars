@@ -9,6 +9,5 @@ Codewars is a collective effort by its users. They are creators - authoring kata
 
 1) Task - N-th Power
 
-Task: https://www.codewars.com/kata/57d814e4950d8489720008db
-
-Solution: https://www.codewars.com/kata/57d814e4950d8489720008db
+ Task: https://www.codewars.com/kata/57d814e4950d8489720008db
+ Solution: https://www.codewars.com/kata/57d814e4950d8489720008db
