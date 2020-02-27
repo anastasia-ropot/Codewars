@@ -17,4 +17,4 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/powerEl
 
 Task: https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 
-Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/powerElement.js
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/countMonkeys.js
