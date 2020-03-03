@@ -18,3 +18,9 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/powerEl
 Task: https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 
 Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/countMonkeys.js
+
+## 3) Task - Sum of Minimums (7 kyu)
+
+Task: https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
+
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/sumOfMinimums.js
