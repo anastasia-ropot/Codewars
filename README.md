@@ -24,3 +24,9 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/countMo
 Task: https://www.codewars.com/kata/5d5ee4c35162d9001af7d699
 
 Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/sumOfMinimums.js
+
+## 4) Task - Alternate capitalization (7 kyu)
+
+Task: https://www.codewars.com/kata/59cfc000aeb2844d16000075
+
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/alternateCapitalization.js
