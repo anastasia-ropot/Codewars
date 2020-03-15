@@ -30,3 +30,9 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/sumOfMi
 Task: https://www.codewars.com/kata/59cfc000aeb2844d16000075
 
 Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/alternateCapitalization.js
+
+## 5) Task - Persistent Bugger (6 kyu)
+
+Task: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
+
+Solution: https://github.com/nastya-ropot/Codewars/commit/70170d3488deee1dd3f420e6500986c15069d925
