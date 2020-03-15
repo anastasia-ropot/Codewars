@@ -1,5 +1,12 @@
 function persistence(num) {
-    return num < 10 ? 0 : persistence([...num.toString()].reduce((accumulator, currentValue) => accumulator * currentValue)) + 1;
+    let result = 0;
+
+    while(num > 9) {
+        result++;
+        num = [...num.toString()].reduce((accumulator, currentValue) => accumulator * currentValue);
+    }
+
+    return result;
 }
 
 console.log(persistence(39));
