@@ -35,4 +35,4 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/alterna
 
 Task: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 
-Solution: https://github.com/nastya-ropot/Codewars/commit/70170d3488deee1dd3f420e6500986c15069d925
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/persistentBugger.js
