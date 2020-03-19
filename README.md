@@ -36,3 +36,9 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/alterna
 Task: https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec
 
 Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/persistentBugger.js
+
+## 6) Task - Create Phone Number (6 kyu)
+
+Task: https://www.codewars.com/kata/525f50e3b73515a6db000b83
+
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/createPhoneNumber.js
