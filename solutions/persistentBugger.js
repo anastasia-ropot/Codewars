@@ -1,18 +1,20 @@
-function persistence(num) {
-    let result = 0;
+function getEvenNumberCount(num) {
+    if (num <= 1) {
+        return 0;
+    } else {
+        let number = num;
+        let count = 0;
 
-    while(num > 9) {
-        result++;
-        num = [...num.toString()].reduce((accumulator, currentValue) => accumulator * currentValue);
+        if (number % 2 === 0) {
+            number = number / 2;
+            count = 1;
+        } else {
+            number = number - 3;
+            count = 0;
+        }
+        return getEvenNumberCount(number) + count;
     }
-
-    return result;
 }
 
-console.log(persistence(39));
+console.log(getEvenNumberCount(3));
 
-function persistenceRecursion(num) {
-    return num < 10 ? 0 : persistenceRecursion([...num.toString()].reduce((accumulator, currentValue) => accumulator * currentValue)) + 1;
-}
-
-console.log(persistenceRecursion(39));
