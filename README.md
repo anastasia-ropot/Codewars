@@ -1,5 +1,6 @@
 # Codewars
-Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. 
+Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback.
+
 ## Website: https://www.codewars.com/
 ## My Account: https://www.codewars.com/users/Nastya-Ropot
 ## Difficulty: 8 kyu, 7 kyu, 6 kyu, 5 kyu, 4 kyu, 3 kyu, 2 kyu, 1 kyu.
@@ -42,3 +43,9 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/persist
 Task: https://www.codewars.com/kata/525f50e3b73515a6db000b83
 
 Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/createPhoneNumber.js
+
+## 7) Task - Beeramid (5 kyu)
+
+Task: https://www.codewars.com/kata/51e04f6b544cf3f6550000c1
+
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/beeramid.js
