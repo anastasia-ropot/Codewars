@@ -49,3 +49,9 @@ Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/createP
 Task: https://www.codewars.com/kata/51e04f6b544cf3f6550000c1
 
 Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/beeramid.js
+
+## 8) Task - RGB To Hex Conversion (5 kyu)
+
+Task: https://www.codewars.com/kata/513e08acc600c94f01000001
+
+Solution: https://github.com/nastya-ropot/Codewars/blob/master/solutions/сonversion.js
